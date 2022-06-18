@@ -2,7 +2,7 @@
 
 ## Preview
 
-![All projects](project.jpg)
+![All projects](projects.jpg)
 
 ## Developed using
 
